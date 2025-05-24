@@ -61,6 +61,14 @@
 
 ---
 
+### 🧠 Most Used Language on GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalytsim&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Inspirational Quote" />
 </p>
