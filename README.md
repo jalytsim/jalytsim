@@ -16,7 +16,7 @@
 - 🌱 **I’m currently learning:** Tailwind CSS, Flask, and interactive front-end development with React!
 - 💞️ **I’m looking to collaborate on:** Open-source projects, web development, and innovative tech solutions.
 - 📫 **How to reach me:** Feel free to reach out via [LinkedIn](https://www.linkedin.com/) or send me an email at `nomenatsimijaly@gmail.com`.
-- 😄 **Pronouns:** He/Him
+- 😄 **Pronouns:** Noum 
 - ⚡ **Fun fact:** I can build more than just code—I can crochet too! 🧶
 
 ---
